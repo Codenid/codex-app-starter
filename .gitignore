@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.venv/
+node_modules/
+dist/
+build/
+coverage/
+.next/
+.vscode/settings.json
+.DS_Store
